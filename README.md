@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/icon.png" alt="App Icon" width="170" height="170">
+  <img src="https://github.com/bwbyword/Timecode-Cutter/blob/main/public/icon.png" alt="App Icon" width="170" height="170">
 </p>
 
 <h1 align="center">Timecode Cutter</h1>
